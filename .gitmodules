@@ -1,0 +1,4 @@
+[submodule "ksm"]
+	path = ksm
+	url = git@github.com:allanfreitas/gsubchild.git
+	branch = development
